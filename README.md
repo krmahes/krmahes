@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning and implementing GEN AI!
 - 💞️ I’m looking to collaborate on developing opensource python data science.
 - 🚀🔬 #DataScience #GenerativeAI #OpenSource #Python
-- 📫 You can reach me at - aimldlrnd86@gmail.com
+- 📫 You can reach out to me at - aimldlrnd86@gmail.com
 
 <!---
 krmahes/krmahes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
